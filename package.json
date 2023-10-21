@@ -1,6 +1,6 @@
 {
   "name": "Swagger-Petstore",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "chase-test-onboarding2",
   "scripts": {
     "prepare": "tsc --build",
